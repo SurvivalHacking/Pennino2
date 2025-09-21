@@ -9,5 +9,4 @@ Un aggiornamento del piccolo braccio robotizzato che scrive su una lavagnetta el
 
 ![Pennino2](https://github.com/user-attachments/assets/3eab1a48-96ed-46d2-9760-ab2c22fa9a18)
 
-
-![Screenshot 2025-06-15 alle 19 02 38](https://github.com/user-attachments/assets/04645679-90aa-4a71-a45d-0e5675624bad)
+![Screenshot 2025-09-21 alle 13 49 36](https://github.com/user-attachments/assets/0aa68f80-ed47-4486-9311-b157e6c825a5)
